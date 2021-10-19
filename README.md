@@ -10,6 +10,12 @@ Windows npm manageer
 [🔗 Vercel](https://vercel.com/)  
 Developer of next.js react framework and free host for dynamic websites (i.e. requiring server communication)
 
+# Other notes
+
+```
+use "git restore --staged <file>..." to unstage
+```
+
 # 10-19-21, Monday
 
 Review of Agile, Scrum, and first react slides
