@@ -22,7 +22,7 @@ Review of Agile, Scrum, and first react slides
 
 ## Slides
 
-[🔗 Slides: Intro to React (part 1)](https://techtalentsouth.slides.com/techtalentsouth/react-intro-a1d4e2?token=hM1QfPFF)
+[🔗 Slides: Intro to React (part 1)](https://techtalentsouth.slides.com/techtalentsouth/react-intro-a1d4e2?token=hM1QfPFF)  
 [🔗 Slides: React part 2](https://techtalentsouth.slides.com/techtalentsouth/react-day-2?token=hpMxm89R)
 
 ## Homework
