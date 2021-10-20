@@ -10,6 +10,8 @@ Windows npm manageer
 [🔗 Vercel](https://vercel.com/)  
 Developer of next.js react framework and free host for dynamic websites (i.e. requiring server communication)
 
+[🔗 Read Aloud extension](https://readaloud.app/)
+
 # Other notes
 
 ```
